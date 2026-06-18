@@ -47,7 +47,7 @@ flowchart LR
 
 ## 2) Negative Actions and Free-Market Ramifications
 
-### Actions That Violate Human Dignity and Human Transparency
+### Actions That Violate Human Dignity and Transparency and Explainability
 
 | Negative action | Value/principle violated | Likely harm | Free-market ramifications |
 | --- | --- | --- | --- |
