@@ -9,12 +9,12 @@ This presentation discusses the **Value of Human Dignity** and the **Principle o
 | Topic | Key idea | Why it matters | Example |
 | --- | --- | --- | --- |
 | **Human Dignity** | Every person has inherent worth and must never be treated as a mere data point, product, or obstacle. | AI should serve people, protect rights, and avoid degrading or exploitative treatment. | A hiring system should not reduce applicants to opaque scores that ignore their humanity and context. |
-| **Human Transparency** | People should understand when AI is being used, what it is doing, and how its outputs affect them. | Transparency builds trust, supports accountability, and enables meaningful human oversight. | A bank using AI for loan screening should clearly disclose that automated tools are involved and explain the main decision factors. |
+| **Transparency and Explainability** | People should understand when AI is being used, what it is doing, and how its outputs affect them. | Transparency builds trust, supports accountability, and enables meaningful human oversight. | A bank using AI for loan screening should clearly disclose that automated tools are involved and explain the main decision factors. |
 
 ### Summary
 
 - **Human dignity** requires AI systems to respect human worth, agency, privacy, and fairness.
-- **Human transparency** requires disclosure, explainability, traceability, and honest communication about AI capabilities and limits.
+- **Transparency and explainability** requires disclosure, explainability, traceability, and honest communication about AI capabilities and limits.
 - Together, they push developers to design systems that are **human-centered**, not merely efficient or profitable.
 
 ### Visual: Relationship Between the Value and Principle
@@ -23,7 +23,7 @@ This presentation discusses the **Value of Human Dignity** and the **Principle o
 flowchart LR
     A[Human Dignity] --> B[Respect for persons]
     A --> C[Protection from harm]
-    D[Human Transparency] --> E[Disclosure of AI use]
+    D[Transparency and Explainability] --> E[Disclosure of AI use]
     D --> F[Explainability and traceability]
     B --> G[Human-centered AI]
     C --> G
@@ -161,4 +161,10 @@ flowchart LR
 
 ## Conclusion
 
-Human dignity reminds us that **people are the purpose of technology, not the raw material for it**. Human transparency ensures that AI systems remain open enough to be questioned, governed, and trusted. When developers, lawmakers, and communities protect both, AI is more likely to contribute to justice, trust, and genuine human flourishing.
+Human dignity reminds us that **people are the purpose of technology, not the raw material for it**. Transparency and explainability ensures that AI systems remain open enough to be questioned, governed, and trusted. When developers, lawmakers, and communities protect both, AI is more likely to contribute to justice, trust, and genuine human flourishing.
+
+---
+
+## Reference
+
+UNESCO. (2021). *Recommendation on the Ethics of Artificial Intelligence*. Retrieved from https://unesdoc.unesco.org/ark:/48223/pf0000380455
