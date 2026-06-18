@@ -1,6 +1,6 @@
-# Human Dignity and Human Transparency in AI
+# Human Dignity and Transparency and Explainability in AI
 
-This presentation discusses the **Value of Human Dignity** and the **Principle of Human Transparency** from UNESCO's *Recommendation on the Ethics of Artificial Intelligence*.
+This presentation discusses the **Value of Human Dignity** and the **Principle of Transparency and Explainability** from UNESCO's *Recommendation on the Ethics of Artificial Intelligence*.
 
 ---
 
